@@ -51,6 +51,8 @@ Kazi Abrar Shafin¹, Md. Alamin Hossain Pappu¹², Ahnaf Tahmid Abir³, Abdul Ku
 
 ## 👥 Authors & Affiliations
 
+Kazi Abrar Shafin¹, Md. Alamin Hossain Pappu¹², Ahnaf Tahmid Abir³, Abdul Kuddus⁴, Shinichiro Mouri⁴⁵, and Jaker Hossain¹*  
+
 ¹ Photonic & Advanced Materials Laboratory, Department of Electrical and Electronic Engineering,  
 University of Rajshahi, Rajshahi 6205, Bangladesh  
 
