@@ -42,11 +42,36 @@ Due to environment-specific configurations (e.g., SCAPS simulation setup, file p
 ## 📎 Citation
 If you use this work, please cite:
 
-Kazi Abrar Shafin et al.  
-Journal of Physics D: Applied Physics (Under Review)
+Kazi Abrar Shafin¹, Md. Alamin Hossain Pappu¹², Ahnaf Tahmid Abir³, Abdul Kuddus⁴, Shinichiro Mouri⁴⁵, and Jaker Hossain¹*  
+
+**Machine Learning-Aided Modelling and Absorption Optimization in Stacked-Absorber Heterostructure Solar Cells**  
+*Journal of Physics D: Applied Physics* (Under Review)
 
 ---
 
-## 👤 Author
-Kazi Abrar Shafin  
-University of Rajshahi, Bangladesh
+## 👥 Authors & Affiliations
+
+¹ Photonic & Advanced Materials Laboratory, Department of Electrical and Electronic Engineering,  
+University of Rajshahi, Rajshahi 6205, Bangladesh  
+
+² Department of Computer Science & Engineering,  
+Varendra University, Rajshahi 6204, Bangladesh  
+
+³ Department of Computer Science & Engineering,  
+East West University, Dhaka 1212, Bangladesh  
+
+⁴ Ritsumeikan Global Innovation Research Organization,  
+Ritsumeikan University, Shiga 525-8577, Japan  
+
+⁵ Department of Electrical and Electronic Engineering, Graduate School of Science and Engineering,  
+Ritsumeikan University, Shiga 525-8577, Japan
+
+---
+
+## 📜 License
+This repository is released under the MIT License.
+
+---
+
+## 🔗 Repository Link
+https://github.com/AbrarShafin/ML-SHAP-SCAPS
