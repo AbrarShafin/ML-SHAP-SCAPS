@@ -1,7 +1,7 @@
 # ML–SHAP–SCAPS Framework (Code & Data Repository)
 
 ## 📌 Overview
-This repository provides the dataset, source codes, and generated figures used in the study:
+This repository provides the dataset, source codes, and supporting figures used in the study:
 
 "Machine Learning-Aided Modelling and Absorption Optimization in Stacked-Absorber Heterostructure Solar Cells"
 
