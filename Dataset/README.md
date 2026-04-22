@@ -44,35 +44,35 @@ The dataset includes parameters for two absorber layers.
 
 ## Layer 1 Parameters
 
-| Column       | Description                                        |
-| ------------ | -------------------------------------------------- |
-| L1 Thickness | Thickness of absorber layer 1                      |
-| L1 Bg        | Bandgap energy                                     |
-| L1 Ea        | Electron affinity                                  |
-| L1 Dp        | Defect density                                     |
-| L1 Nc        | Effective density of states in the conduction band |
-| L1 Nv        | Effective density of states in the valence band    |
-| L1 Ue        | Electron mobility                                  |
-| L1 Uh        | Hole mobility                                      |
-| L1 Na        | Acceptor concentration                             |
-| L1 dd        | Defect distribution parameter                      |
+| Column       | Description                                             |
+|--------------|---------------------------------------------------------|
+| L1 Thickness | Thickness of absorber layer 1                           |
+| L1 Eg        | Bandgap energy                                          |
+| L1 Ea        | Electron affinity                                       |
+| L1 Dp        | Dielectric permittivity                                 |
+| L1 Nc        | Effective density of states in the conduction band      |
+| L1 Nv        | Effective density of states in the valence band         |
+| L1 Ue        | Electron mobility                                       |
+| L1 Uh        | Hole mobility                                           |
+| L1 Na        | Acceptor concentration                                  |
+| L1 dd        | Defect density                                          |
 
 ---
 
 ## Layer 2 Parameters
 
-| Column       | Description                                        |
-| ------------ | -------------------------------------------------- |
-| L2 Thickness | Thickness of absorber layer 2                      |
-| L2 Bg        | Bandgap energy                                     |
-| L2 Ea        | Electron affinity                                  |
-| L2 Dp        | Defect density                                     |
-| L2 Nc        | Effective density of states in the conduction band |
-| L2 Nv        | Effective density of states in the valence band    |
-| L2 Ue        | Electron mobility                                  |
-| L2 Uh        | Hole mobility                                      |
-| L2 Na        | Acceptor concentration                             |
-| L2 dd        | Defect distribution parameter                      |
+| Column       | Description                                             |
+|--------------|---------------------------------------------------------|
+| L2 Thickness | Thickness of absorber layer 2                           |
+| L2 Eg        | Bandgap energy                                          |
+| L2 Ea        | Electron affinity                                       |
+| L2 Dp        | Dielectric permittivity                                 |
+| L2 Nc        | Effective density of states in the conduction band      |
+| L2 Nv        | Effective density of states in the valence band         |
+| L2 Ue        | Electron mobility                                       |
+| L2 Uh        | Hole mobility                                           |
+| L2 Na        | Acceptor concentration                                  |
+| L2 dd        | Defect density                                          |
 
 ---
 
