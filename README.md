@@ -22,18 +22,6 @@ It provides a **reproducible machine learning pipeline** integrating:
 
 The goal is to enable **transparent, interpretable, and high-performance modeling** of advanced solar cell structures.
 
----
-
-## 🧠 Framework Pipeline
-
-```mermaid
-flowchart LR
-    A[SCAPS-1D Simulation] --> B[Dataset Generation]
-    B --> C[Data Preprocessing]
-    C --> D[ML Model Training]
-    D --> E[Model Evaluation]
-    E --> F[SHAP Analysis]
-    F --> G[Insight & Optimization]
 
 ---
 
