@@ -2,7 +2,7 @@
 ### Machine Learning–Driven Optimization of Stacked-Absorber Solar Cells  
 
 [![DOI](https://img.shields.io/badge/DOI-10.1088%2F1361--6463%2Fae571c-blue)](https://doi.org/10.1088/1361-6463/ae571c)
-[![Journal](https://img.shields.io/badge/Journal-Journal%20of%20Physics%20D-red)](https://iopscience.iop.org/journal/0022-3727)
+[![Journal: Journal of Physics D: Applied Physics](https://img.shields.io/badge/Journal-Journal%20of%20Physics%20D%3A%20Applied%20Physics-red)](https://iopscience.iop.org/journal/0022-3727)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Published-success)]()
 
