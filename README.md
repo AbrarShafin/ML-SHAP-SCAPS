@@ -28,7 +28,7 @@ Python scripts covering:
 - SHAP-based interpretability analysis  
 
 ### figures/
-Contains all plots and visual outputs presented in the published article.
+Contains all supporting figures associated with the published study.
 
 ---
 
