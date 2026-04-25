@@ -1,4 +1,4 @@
-# 🚀 ML–SHAP–SCAPS Framework  
+# ML–SHAP–SCAPS Framework  
 ### Machine Learning–Driven Optimization of Stacked-Absorber Solar Cells  
 
 [![DOI](https://img.shields.io/badge/DOI-10.1088%2F1361--6463%2Fae571c-blue)](https://doi.org/10.1088/1361-6463/ae571c)
@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Published-success)]()
 
-## 📌 Overview
+## Overview
 This repository provides the dataset, source codes, and supporting figures associated with the published study:
 
 **“Machine learning-aided modeling and absorption optimization in stacked-absorber heterojunction solar cells”**  
